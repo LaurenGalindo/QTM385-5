@@ -1,7 +1,7 @@
 # QTM385-5
 **QTM 385-5: Elements of Data Science; Python, SQL, and Advanced R**
 
-Course materials and assignments for QTM 385-5: Python, SQL, and R
+This repository contains the course materials and assignments for QTM 385-5: Python, SQL, and R.
 This class will advance the skills required for the student for successful data analytics. 
 We will cover Python from elementary to advanced programming skills and data wrangling in the first half. 
 In the second half, we will introduce relational databases, provide an overview of SQL (Structured Query Language), 
